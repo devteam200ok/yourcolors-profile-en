@@ -86,9 +86,9 @@ This ensures that colours are vibrant, durable, and permanently bonded into the 
 
 ## ℹ️ Notes / Key Tech Details
 
-- We use **reactive dye digital printing** (not pigment-surface printing) to ensure vivid colour, high wash-fastness and soft hand-feel.  [oai_citation:4‡Contrado UK](https://www.contrado.co.uk/blog/reactive-printing-advanced-method/?utm_source=chatgpt.com)  
-- Because dye bonds into the fibre, the colours remain vibrant and stable even after repeated washing — equivalent or superior to traditional screen/rotary printing on natural fibre fabrics.  [oai_citation:5‡Contrado UK](https://www.contrado.co.uk/blog/reactive-printing-advanced-method/?utm_source=chatgpt.com)  
-- Digital textile printing enables **small-volume (1 yard) orders** and **fast turnaround**, making it ideal for sampling, limited-edition runs, or custom designs.  [oai_citation:6‡Wikipedia](https://en.wikipedia.org/wiki/Digital_textile_printing?utm_source=chatgpt.com)  
+- We use **reactive dye digital printing** (not pigment-surface printing) to ensure vivid colour, high wash-fastness and soft hand-feel.
+- Because dye bonds into the fibre, the colours remain vibrant and stable even after repeated washing — equivalent or superior to traditional screen/rotary printing on natural fibre fabrics.
+- Digital textile printing enables **small-volume (1 yard) orders** and **fast turnaround**, making it ideal for sampling, limited-edition runs, or custom designs.  
 
 ---
 
