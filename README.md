@@ -34,16 +34,16 @@ We use **reactive dye–based digital textile printing** on pre-treated cotton, 
 - Inkjet printing of the design with reactive dyes  
 - Post-print fixation (steam/heat), thorough washing, softening/tenter/calendar processing etc. — same finishing steps as traditional high-end screen/rotary printing.  
 
-This ensures that colours are vibrant, durable, and permanently bonded into the fibre — giving **excellent wash and rub fastness, soft hand-feel, and longevity**.  [oai_citation:0‡Contrado UK](https://www.contrado.co.uk/blog/reactive-printing-advanced-method/?utm_source=chatgpt.com)
+This ensures that colours are vibrant, durable, and permanently bonded into the fibre — giving **excellent wash and rub fastness, soft hand-feel, and longevity**.
 
 **Benefits compared with traditional (screen / rotary) printing**:
 
 | ✅ Benefit | 📌 Description |
 |-----------|----------------|
-| Short-run flexibility | Digital print allows production from **1 yard** — no need to meet large minimum order (screen print often requires 1000 yards or more to justify setup)  [oai_citation:1‡Wikipedia](https://en.wikipedia.org/wiki/Digital_textile_printing?utm_source=chatgpt.com) |  
+| Short-run flexibility | Digital print allows production from **1 yard** — no need to meet large minimum order (screen print often requires 1000 yards or more to justify setup) |  
 | Fast turnaround | Fabric production and finishing can be completed typically in **1–2 weeks**, while traditional screen/rotary printing may take ~2 months including screen making, setup, etc. |  
-| High design flexibility | Supports complex, detailed, multi-color or even photographic patterns — infinitely customizable per order.  [oai_citation:2‡TISKA Fabrics](https://tiskafabrics.com/digital-textile-printing/?srsltid=AfmBOop8P9NfWWlUNU7HoQdZTtfRwptwqbWa28BqcT7El8P3UfGRJ_RX&utm_source=chatgpt.com) |  
-| High-quality, durable finish | Because dyes chemically bond to the fibre (instead of just coating the surface), resulting fabric maintains softness and wash-fastness comparable to or better than traditional methods.  [oai_citation:3‡Contrado UK](https://www.contrado.co.uk/blog/reactive-printing-advanced-method/?utm_source=chatgpt.com) |
+| High design flexibility | Supports complex, detailed, multi-color or even photographic patterns — infinitely customizable per order. |  
+| High-quality, durable finish | Because dyes chemically bond to the fibre (instead of just coating the surface), resulting fabric maintains softness and wash-fastness comparable to or better than traditional methods. |
 
 ---
 
